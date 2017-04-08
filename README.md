@@ -6,10 +6,10 @@ When rendering the Froala editor inside a Bootstrap modal, click handling events
 
 ## Setup
 
-Clone with `git clone git@github.com:adcooley/froala-modal-bug-repro.git`
-`cd froala-modal-bug-repro`
-run `meteor npm install` to get babel-runtime
-run `meteor` to build and run the app
+- Clone with `git clone git@github.com:adcooley/froala-modal-bug-repro.git`
+- `cd froala-modal-bug-repro`
+- run `meteor npm install` to get babel-runtime
+- run `meteor` to build and run the app
 
 ## Repro
 
