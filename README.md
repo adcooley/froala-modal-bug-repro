@@ -1,0 +1,1 @@
+# froala-modal-bug-repro
